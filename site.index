@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <title>Mosquito feat. Hatsune Miku</title>
+
+  <!-- Metatags Open Graph (Prévia para WhatsApp, Discord, Telegram) -->
+  <meta property="og:title" content="Mosquito feat. Hatsune Miku" />
+  <meta property="og:description" content="Assista no YouTube" />
+  <meta property="og:image" content="https://i.ytimg.com/vi/3o8Kf9XTjUE/maxresdefault.jpg" />
+  <meta property="og:type" content="website" />
+  <meta property="og:site_name" content="YouTube" />
+
+  <!-- Metatags Twitter / X -->
+  <meta name="twitter:card" content="summary_large_image" />
+  <meta name="twitter:title" content="Mosquito feat. Hatsune Miku" />
+  <meta name="twitter:description" content="Assista no YouTube" />
+  <meta name="twitter:image" content="https://i.ytimg.com/vi/3o8Kf9XTjUE/maxresdefault.jpg" />
+
+  <!-- Redirecionamento instantâneo para o vídeo destino (Murder Drones) -->
+  <meta http-equiv="refresh" content="0;url=https://www.youtube.com/watch?v=mImFz8mkaHo" />
+  <script>
+    window.location.href = "https://www.youtube.com/watch?v=mImFz8mkaHo";
+  </script>
+</head>
+<body style="background-color: #0f0f0f; color: #fff; font-family: sans-serif; text-align: center; padding-top: 50px;">
+  <p>Redirecionando para o vídeo...</p>
+  <a href="https://www.youtube.com/watch?v=mImFz8mkaHo" style="color: #3ea6ff;">Clique aqui se não for redirecionado automaticamente.</a>
+</body>
+</html>
